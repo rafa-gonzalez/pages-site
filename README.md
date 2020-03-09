@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Test
 
 You can use the [editor on GitHub](https://github.com/rafa-gonzalez/pages-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
